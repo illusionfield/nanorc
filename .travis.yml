@@ -3,9 +3,6 @@ os:
 
 language: gcc
 
-#git:
-#  submodules: false
-
 before_install:
   - brew tap homebrew/dupes
   - brew update
